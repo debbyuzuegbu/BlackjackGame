@@ -1,0 +1,37 @@
+body {
+  background-color: green;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+p {
+  color: white;
+}
+.main-div {
+  padding: 80px;
+  font-size: 1.4em;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+.button{
+    color: #016f32;
+    width:  150px;
+    background-color: goldenrod;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.new-card{
+    margin-top: 8px;
+}
